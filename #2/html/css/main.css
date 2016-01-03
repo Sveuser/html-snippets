@@ -147,6 +147,10 @@ a {
   border-right: #ddd 1px solid;
 }
 
+.sf-menu > li.sfHover > a {
+  color: #FB0106;
+}
+
 .sf-menu > li > a {
   padding: 30px 30px;
   border-bottom: 5px solid transparent;
